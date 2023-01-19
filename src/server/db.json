@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "id": "97f9b801-072a-47d9-bb9e-3d290247df17",
+            "name": "Gabriel Borges",
+            "email": "gabriel@example.com"
+        },
+        {
+            "id": "3b7a23b1-e553-4d50-9b52-13f26c42838a",
+            "name": "Gabriel Borges Oliveira",
+            "email": "gabriel@hotmail.com"
+        },
+        {
+            "id": "ed81ca8c-f07c-4ffb-a662-4370df4bfc7d",
+            "name": "Jhon Doe",
+            "email": "gabriel@example.com"
+        },
+        {
+            "id": "66777b75-3d4c-4640-a410-0e3f3ca381a8",
+            "name": "Diego Silva",
+            "email": "gabriel@example.com"
+        }
+    ]
+}
