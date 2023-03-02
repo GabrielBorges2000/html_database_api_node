@@ -13,6 +13,7 @@ ________________________________________________________________________________
 # ANOTAÇÕES:
 
     Para iniciar o servidor basta rodar o seguinte comando no terminal:
+    
 
 ```
 npm run dev
