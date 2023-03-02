@@ -14,7 +14,9 @@ ________________________________________________________________________________
 
     Para iniciar o servidor basta rodar o seguinte comando no terminal:
 
-```npm run dev```
+```
+npm run dev
+```
 
 
 
