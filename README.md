@@ -1,6 +1,6 @@
-# Primeira API NODE 
+# Consumindo Dados de uma API NODE 
 
-    Neste Projeto foi Criado uma API REST utilizando node!
+    Neste Projeto foi Criado uma API REST utilizando Node.js!
 
 
     -Techs utilizadas:
@@ -18,6 +18,10 @@
 ```
 npm run dev
 ```
+
+---
+
+Em Desenvolvimento...
 
 
 
